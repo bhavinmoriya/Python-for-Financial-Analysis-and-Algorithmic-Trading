@@ -1,2 +1,2 @@
 # Python-for-Financial-Analysis-and-Algorithmic-Trading
-Material and Exercise related to the course as posted here.
+Material and Exercises related to Finance will be posted here.
